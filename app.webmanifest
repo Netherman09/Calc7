@@ -1,3 +1,11 @@
 {
-    "name": "Calc 7"
+    "name": "Calc 7",
+    "icons": [
+        {
+            "src": "icons/calc7_icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "display": "minimal-ui"
 }
